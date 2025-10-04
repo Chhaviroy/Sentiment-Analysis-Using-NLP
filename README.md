@@ -20,7 +20,7 @@ Preprocessing: Text cleaning, tokenization, lowercasing, and stopword removal.
 
 Model Training
 
-The project uses [your model type: e.g., Logistic Regression, Naive Bayes, LSTM, BERT] to classify sentiment.
+The project uses [Logistic Regression, Naive Bayes, LSTM, BERT] to classify sentiment.
 Steps:
 
 Preprocess text data (cleaning, tokenization, vectorization).
