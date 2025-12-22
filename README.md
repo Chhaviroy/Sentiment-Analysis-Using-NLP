@@ -1,31 +1,33 @@
 # Sentiment-Analysis-Using-NLP
 NLP-based Sentiment Analysis project for automated text opinion mining and sentiment classification.
-Introduction
+
+# Introduction
 
 This project implements Sentiment Analysis using Natural Language Processing (NLP) techniques. The goal is to automatically classify text data (like tweets, product reviews, or movie reviews) into positive, negative, or neutral sentiment. This can help businesses, researchers, or developers understand opinions and trends from large volumes of text data.
 
-Dataset Overview
+# Dataset Overview
 
 The dataset used in this project contains text samples along with sentiment labels.
 
-Source: [Insert dataset link, e.g., Kaggle or your source]
+# Source: [Insert dataset link, e.g., Kaggle or your source]
 
-Features:
+# Features:
 
-text: The textual data
+- text: The textual data
 
-label: Sentiment class (positive, negative, neutral)
+- label: Sentiment class (positive, negative, neutral)
 
-Preprocessing: Text cleaning, tokenization, lowercasing, and stopword removal.
+- Preprocessing: Text cleaning, tokenization, lowercasing, and stopword removal.
+- 
 
-Model Training
+#Model Training
 
 The project uses [Logistic Regression, Naive Bayes, LSTM, BERT] to classify sentiment.
-Steps:
+# Steps:
 
-Preprocess text data (cleaning, tokenization, vectorization).
+- Preprocess text data (cleaning, tokenization, vectorization).
 
-Split the dataset into training and testing sets.
+- Split the dataset into training and testing sets.
 
 Train the model on training data.
 
