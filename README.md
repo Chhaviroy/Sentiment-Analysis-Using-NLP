@@ -3,7 +3,7 @@ NLP-based Sentiment Analysis project for automated text opinion mining and senti
 
 # Introduction
 
-This project implements Sentiment Analysis using Natural Language Processing (NLP) techniques. The goal is to automatically classify text data (like tweets, product reviews, or movie reviews) into positive, negative, or neutral sentiment. This can help businesses, researchers, or developers understand opinions and trends from large volumes of text data.
+This project implements Sentiment Analysis using Natural Language Processing (NLP) techniques. Its goal is to automatically classify text data (like tweets, product reviews, or movie reviews) into positive, negative, or neutral sentiment. This can help businesses, researchers, or developers understand opinions and trends from large volumes of text data.
 
 # Dataset Overview
 
